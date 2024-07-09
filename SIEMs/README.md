@@ -12,7 +12,7 @@ You need to be able to carefully look through each alert with detail and confide
 
 The more alerts you tackle and close, the faster you can respond to new attacks and handle the 100s of alerts thaty come through any SOC. 
 
-<br>
+</br>
 
 # Log Analysis: Using a SIEM
 
