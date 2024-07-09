@@ -1,7 +1,7 @@
 # SIEMS
 The purpose of this repository is to store all of the information that I have gathered in regards to SIEMs. 
 ## Table of Contents
-1. [Introduction of SIEM Alerts](https://github.com/Matthewdr23/SOC-Analysis/tree/main/SIEMs#introduction-of-siem-alerts)
+1. [Introduction of SIEM Alerts]()
 
 
 # Introduction of SIEM Alerts
