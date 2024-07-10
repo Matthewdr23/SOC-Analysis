@@ -25,7 +25,7 @@ Every device in the network generates some kind of log whenever an activity is p
 Windows records every event that can viewed through the Event Viewer Utility. One of the things that it does is it assigns a unique ID to each type of log activity. This makes it easier for the analyst to examine and keep track of. 
 
 To view events in a Windows environment, 
-'''
+```
 Type: Event Viewer
-'''
+```
 In the ***Search Bar***
