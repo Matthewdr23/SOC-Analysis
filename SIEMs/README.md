@@ -16,3 +16,16 @@ The more alerts you tackle and close, the faster you can respond to new attacks 
 
 # Log Analysis: Using a SIEM
 
+## Ingesting Log Data with a SIEM
+SIEMs store, search, analyze, and visulaize data form mulitple sources, in any format and in real-time.  
+
+Every device in the network generates some kind of log whenever an activity is performed on it, like a user visiting a website, connecting to SSH, logging into their workstation, and so many more. 
+
+### Windows Machines
+Windows records every event that can viewed through the Event Viewer Utility. One of the things that it does is it assigns a unique ID to each type of log activity. This makes it easier for the analyst to examine and keep track of. 
+
+To view events in a Windows environment, 
+'''
+Type: Event Viewer
+'''
+In the ***Search Bar***
